@@ -1,6 +1,6 @@
 CornerCRF
 ====
-Yet another linear chain CRF implementation for word segmentation in Chinese.
+Yet another linear chain CRF implementation for Chinese word segmentation in Java.
 
 #Introduction
 ##Training Data
